@@ -1,8 +1,6 @@
 # Coconut "Curry" Noodles
 
-**Prep Time**: 0 Minutes (if you use/buy prepared ingredients)
-**Cook Time**: 15 Minutes
-**Servings**: 1-2 (depending on your hunger)
+**Prep Time**: 0 Minutes (if you use/buy prepared ingredients) | **Cook Time**: 15 Minutes | **Servings**: 1-2 (depending on your hunger)
 
 ## Ingredients
 - 120g Pasta (of your choice, I use spaghetti)
