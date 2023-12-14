@@ -5,3 +5,6 @@ Collection of recipes that I like to make.
 
 * [Pasta Pomodoro](pasta-pomodoro.md)
 * [Coconut Curry Noodles](coconut-curry-noodles.md)
+
+# Support Me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M5BAVTK)
