@@ -2,6 +2,8 @@
 
 > [Original Recipe](https://www.minecraft.net/en-us/article/spookyfest-upon-us) by Mojang from their Cooking Book "Minecraft: Gather, Cook, Eat!"
 
+![image](/images/MC_SusStew_3_Updated_crop1.jpg)
+
 **Prep Time**: 15 Minutes | **Cook Time**: 1 Hour | **Servings**: 4 (depending on your hunger)
 
 ## Ingredients
