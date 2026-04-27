@@ -8,4 +8,4 @@ Collection of recipes that I like to make.
 * [Mojangs Suspicious-er Stew](suspicious-er-stew-recipe.md)
 
 # Support Me
-[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png)](https://ko-fi.com/M4M5BAVTK)
+[![ko-fi](/images/support_me_on_kofi.png)](https://ko-fi.com/M4M5BAVTK)
